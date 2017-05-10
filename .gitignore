@@ -1,0 +1,3 @@
+notes.txt	#just notes I'm taking as I proceed, relevant info will be in the README
+
+*.pyc		#ignore all the .pyc files generated during testing
