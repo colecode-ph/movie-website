@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-#movie instances to be displayed
+# movie instances to be displayed
 
 avatar = media.Movie("Avatar",
                      "2009",
