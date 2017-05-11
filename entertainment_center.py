@@ -35,9 +35,9 @@ pi = media.Movie("Pi",
 
 the_fountain = media.Movie("The Fountain",
 						   "2006",
-					   	   "An unconventional story about love and immortality.",
-					   	   "https://upload.wikimedia.org/wikipedia/en/e/ee/Fountain_poster_1.jpg",
-					       "https://www.youtube.com/watch?v=-4CgGfYkyFE")
+						   "An unconventional story about love and immortality.",
+						   "https://upload.wikimedia.org/wikipedia/en/e/ee/Fountain_poster_1.jpg",
+						   "https://www.youtube.com/watch?v=-4CgGfYkyFE")
 
 #put the movies in a list and create the .html page
 
