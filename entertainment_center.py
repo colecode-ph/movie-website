@@ -39,7 +39,7 @@ the_fountain = media.Movie("The Fountain",
                            "https://upload.wikimedia.org/wikipedia/en/e/ee/Fountain_poster_1.jpg",
                            "https://www.youtube.com/watch?v=-4CgGfYkyFE")
 
-#put the movies in a list and create the .html page
+# put the movies in a list and call the function to create the .html page
 
 movies = [avatar, moon, primer, coherence, pi, the_fountain]
 fresh_tomatoes.open_movies_page(movies)
