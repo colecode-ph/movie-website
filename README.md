@@ -12,8 +12,8 @@ The program includes three files:
 
 ## Requirements to make it work
 
-* Must have Python installed. I've tested it with Python 2 and 3, so either version should do. You can download Python from [here]. (https://wiki.python.org/moin/BeginnersGuide/Download)
-* Must have git installed. Check out this [helpful guide]. (https://www.atlassian.com/git/tutorials/install-git)
+* Must have Python installed. I've tested it with Python 2 and 3, so either version should do. You can download Python from [here](https://wiki.python.org/moin/BeginnersGuide/Download).
+* Must have git installed. Check out this [helpful guide](https://www.atlassian.com/git/tutorials/install-git).
 * If you can't be bothered to install git, you could always just cut and paste the file content to your machine, there are only three of them so it shouldn't be too much of a hassle.
 
 ## How to make it work
